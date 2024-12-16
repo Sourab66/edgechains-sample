@@ -6,7 +6,7 @@ async function researchAssistant() {
   try {
     // Step 1: Set up the OpenAI client
     const openAIClient = new OpenAIClient({
-      apiKey: 'your-openai-api-key', // Add your OpenAI API key here
+      apiKey: 'sk-test1234567890abcdefghijklmnopqrstuvwx', // Add your OpenAI API key here
     });
 
     // Step 2: Create a chat chain
